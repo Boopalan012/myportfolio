@@ -1,4 +1,4 @@
-import Mypic from '../src/assets/images/progmmer.png'
+import Mypic from '../src/assets/images/bat.jpg'
 import springreact from '../src/assets/images/springreact .jpg'
 const logotext = "Boopalan";
 const meta = {
