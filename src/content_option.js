@@ -87,10 +87,11 @@ const contactConfig = {
     description: "For any inquiries or collaboration opportunities, feel free to reach out to me—I'm excited to connect and discuss web development projects or opportunities!",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_lbyy45l",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_oyviyys",
+    YOUR_TEMPLATE_ID: "template_ead33ds",
+    YOUR_USER_ID: "BMqiesikFFdcOi8pI",
 };
+
 
 const socialprofils = {
     github: "https://github.com/boopalan012",
