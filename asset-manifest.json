@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.fbc00891.css",
-    "main.js": "/static/js/main.0e946eb9.js",
-    "static/media/progmmer.png": "/static/media/progmmer.0c969f341448bf81c3fc.png",
-    "static/media/springreact .jpg": "/static/media/springreact .34016793d38678ebc30e.jpg",
-    "index.html": "/index.html"
+    "main.css": "/personal/static/css/main.fbc00891.css",
+    "main.js": "/personal/static/js/main.6d616c78.js",
+    "static/media/bat.jpg": "/personal/static/media/bat.ecc2db924f5edd8a8076.jpg",
+    "static/media/springreact .jpg": "/personal/static/media/springreact .34016793d38678ebc30e.jpg",
+    "index.html": "/personal/index.html"
   },
   "entrypoints": [
     "static/css/main.fbc00891.css",
-    "static/js/main.0e946eb9.js"
+    "static/js/main.6d616c78.js"
   ]
 }
