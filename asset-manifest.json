@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Boopalan012/myportfolio/static/css/main.fbc00891.css",
-    "main.js": "/Boopalan012/myportfolio/static/js/main.a927f268.js",
-    "static/media/my.jpg": "/Boopalan012/myportfolio/static/media/my.99555195e8be0af23329.jpg",
-    "static/media/springreact .jpg": "/Boopalan012/myportfolio/static/media/springreact .34016793d38678ebc30e.jpg",
-    "index.html": "/Boopalan012/myportfolio/index.html"
+    "main.css": "/myportfolio/static/css/main.fbc00891.css",
+    "main.js": "/myportfolio/static/js/main.2b0dfd4a.js",
+    "static/media/my.jpg": "/myportfolio/static/media/my.99555195e8be0af23329.jpg",
+    "static/media/springreact .jpg": "/myportfolio/static/media/springreact .34016793d38678ebc30e.jpg",
+    "index.html": "/myportfolio/index.html"
   },
   "entrypoints": [
     "static/css/main.fbc00891.css",
-    "static/js/main.a927f268.js"
+    "static/js/main.2b0dfd4a.js"
   ]
 }
